@@ -37,8 +37,8 @@ Um clone simplificado do Spotify desenvolvido com Node.js, Express, React, e Mon
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/RobertoFacina/Projeto_Spotify.git
+cd Projeto_Spotify
 ```
 
 2. Instale as dependências do back-end:
