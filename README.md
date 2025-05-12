@@ -66,12 +66,19 @@ cd ../front-end
 npm install
 ```
 
-6. Inicie o front-end:
+6. Inicie o back-end e o front-end e terminais separados:
 
 ```bash
-npm run dev
+cd front-end
+npm run dev 
+```
+7. Inicie o back-end e o front-end e terminais separados:
+
+```bash
+cd back-end
+node --watch ./api/server.js 
 ```
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Não se aplica
